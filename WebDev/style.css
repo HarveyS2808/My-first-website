@@ -10,6 +10,12 @@ h1 {
     text-decoration: seagreen;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
 rightfloat{
     float: right;
     border-style: ridge;
