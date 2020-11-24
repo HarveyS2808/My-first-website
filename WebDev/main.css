@@ -2,10 +2,8 @@
     position: fixed;
     width: 100%;
     bottom: 0;
-    color: white;
-    background-color: aqua;
+    background-color: #cc323d;
     text-align: left;
-    text-decoration: wheat;
 }
 
 .ul {
