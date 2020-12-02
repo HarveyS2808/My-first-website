@@ -1,13 +1,14 @@
 .footer {
+    --main-color: #cc323d;
     position: fixed;
     width: 100%;
     bottom: 0;
-    background-color: #cc323d;
+    background-color:var(--main-color);
     text-align: left;
 }
 
 .ul {
     text-align: left;
-    background-color: #cc323d;
-    text-decoration-color: #cc323d
+    background-color: var(--main-color);
+    text-decoration-color: var(--main-color);
 }
