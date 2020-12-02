@@ -1,4 +1,4 @@
-div {
+.images:hover {
     -ms-transform: scale(0.95,0.95);
     transform: scale(0.95,0.95);
 }
